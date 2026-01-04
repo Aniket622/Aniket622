@@ -101,6 +101,6 @@ My expertise lies in **data analysis, reporting, dashboarding, and predictive mo
 ---
 
 ## Connect With Me
-- **GitHub:** https://github.com/your-username
-- **LinkedIn:** https://linkedin.com/in/your-profile
-- **Email:** your.email@example.com
+- **GitHub:** https://github.com/aniket622
+- **LinkedIn:** https://linkedin.com/in/aniketmishra622
+- **Email:** aniketmishra622@gmail.com 
