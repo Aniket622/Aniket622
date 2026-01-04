@@ -1,6 +1,6 @@
 # Hi, I'm Aniket Mishra 👋
 
-## Data Analyst | Business Insights | Decision Support
+## Data Analyst | Business Insights | Data Science
 
 I am a **Data Analyst** with a strong focus on transforming raw data into meaningful business insights that support strategic and operational decision-making. I work closely with stakeholders and managers to translate business questions into data-driven solutions using analytics, visualization, and machine learning techniques.
 
@@ -16,14 +16,17 @@ My expertise lies in **data analysis, reporting, dashboarding, and predictive mo
 - Business Metrics & KPI Development
 - Statistical Analysis
 - Predictive & Descriptive Analytics
-- Stakeholder & Management Reporting
+- Data Visualization
+- Model Building & Optimization
 
 ### Programming & Scripting Languages
 - **Python**
-- **SQL**
+- **R**
+- **C++**
 
 ### Databases
 - **MySQL**
+- **OracleSQL**
 
 ### Data Visualization Tools
 - **Power BI**
@@ -34,6 +37,7 @@ My expertise lies in **data analysis, reporting, dashboarding, and predictive mo
 - Excel (Advanced Functions, Lookups, Macros)
 - Power BI Service
 - Jupyter Notebook
+- Google Colab
 
 ---
 
@@ -50,6 +54,9 @@ My expertise lies in **data analysis, reporting, dashboarding, and predictive mo
 - SciPy
 - BeautifulSoup
 - Requests
+- PyTorch
+- OpenCV
+- Tensorflow
 
 ### Machine Learning & AI Models
 
@@ -75,60 +82,13 @@ My expertise lies in **data analysis, reporting, dashboarding, and predictive mo
 
 **Time Series & Forecasting**
 - ARIMA
-- SARIMA
 - Exponential Smoothing
-- Prophet
 
 **Model Evaluation & Optimization**
 - Cross Validation
 - Grid Search
 - Random Search
 - ROC-AUC, Precision, Recall, F1-Score
-
----
-
-## Projects
-
-### 1. Sales Performance Dashboard
-**Description:**
-Developed an interactive sales analytics dashboard to track KPIs, revenue trends, regional performance, and product-wise sales for management review and decision-making.
-
-**Skills & Tools Used:**
-- Power BI
-- SQL (MySQL)
-- Data Modeling
-- KPI Design
-
-**Demo Link:**
-- https://github.com/your-username/sales-performance-dashboard
-
----
-
-### 2. Customer Churn Analysis
-**Description:**
-Performed exploratory data analysis and built predictive models to identify key factors influencing customer churn and provide actionable insights to reduce attrition.
-
-**Skills & Tools Used:**
-- Python (Pandas, NumPy, Scikit-learn)
-- Logistic Regression, Random Forest
-- Data Visualization
-
-**Demo Link:**
-- https://github.com/your-username/customer-churn-analysis
-
----
-
-### 3. Financial Data Analysis & Forecasting
-**Description:**
-Analyzed historical financial data and built forecasting models to predict future revenue trends and support budgeting and planning processes.
-
-**Skills & Tools Used:**
-- Python
-- Time Series Models (ARIMA, SARIMA)
-- Excel & Power BI
-
-**Demo Link:**
-- https://github.com/your-username/financial-forecasting
 
 ---
 
@@ -144,8 +104,3 @@ Analyzed historical financial data and built forecasting models to predict futur
 - **GitHub:** https://github.com/your-username
 - **LinkedIn:** https://linkedin.com/in/your-profile
 - **Email:** your.email@example.com
-
----
-
-⭐ *If you find my work valuable, feel free to explore my repositories and connect with me.*
-
